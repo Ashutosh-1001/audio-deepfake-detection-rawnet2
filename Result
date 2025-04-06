@@ -1,0 +1,10 @@
+Audio File	Ground Truth (True)	Model Prediction (Pred)
+LA_T_1000086.flac	0 (real)	0 (real)
+LA_T_1000143.flac	0 (real)	0 (real)
+LA_T_1000021.flac	1 (fake)	1 (fake)
+LA_T_1000337.flac	0 (real)	0 (real)
+LA_T_1000456.flac	1 (fake)	1 (fake)
+
+
+
+
